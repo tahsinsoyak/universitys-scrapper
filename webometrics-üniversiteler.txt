@@ -1,0 +1,210 @@
+rank,name_en,name_tr
+1,Hacettepe University,Hacettepe Üniversitesi
+2,Middle East Technical University,Orta Doğu Teknik Üniversitesi
+3,Istanbul Technical University,İstanbul Teknik Üniversitesi
+4,Ankara University,Ankara Üniversitesi
+5,Koç University,Koç Üniversitesi
+6,Istanbul University,İstanbul Üniversitesi
+7,Bilkent University,Bilkent Üniversitesi
+8,Atatürk University,Atatürk Üniversitesi
+9,Gazi University,Gazi Üniversitesi
+10,Ege University,Ege Üniversitesi
+11,Sabanci University,Sabancı Üniversitesi
+12,Dokuz Eylül University,Dokuz Eylül Üniversitesi
+13,Marmara University,Marmara Üniversitesi
+14,University of Anatolia,Anadolu Üniversitesi
+15,Firat University,Fırat Üniversitesi
+16,Sakarya University,Sakarya Üniversitesi
+17,Erciyes University,Erciyes Üniversitesi
+18,Akdeniz University,Akdeniz Üniversitesi
+19,Istanbul Bilgi University,İstanbul Bilgi Üniversitesi
+20,Uludağ University,Uludağ Üniversitesi
+21,Karadeniz Technical University,Karadeniz Teknik Üniversitesi
+22,Ondokuz Mayis University,Ondokuz Mayıs Üniversitesi
+23,Çankaya University,Çankaya Üniversitesi
+24,Bahçeşehir University,Bahçeşehir Üniversitesi
+25,Cumhuriyet University,Cumhuriyet Üniversitesi
+26,Gaziantep University,Gaziantep Üniversitesi
+27,Gebze Technological University,Gebze Teknik Üniversitesi
+28,Suleyman Demirel University,Süleyman Demirel Üniversitesi
+29,Özyeğin University,Özyeğin Üniversitesi
+30,Kocaeli University,Kocaeli Üniversitesi
+31,Izmir Institute of Technology,İzmir Yüksek Teknoloji Enstitüsü
+32,Kirikkale University,Kırıkkale Üniversitesi
+33,Istanbul University-Cerrahpaşa,İstanbul Üniversitesi-Cerrahpaşa
+34,Mersin University,Mersin Üniversitesi
+35,Eskişehir Osmangazi University,Eskisehir Osmangazi Üniversitesi
+36,Istanbul Aydin University,İstanbul Aydın Üniversitesi
+37,Karabük University,Karabük Üniversitesi
+38,Pamukkale University,Pamukkale Üniversitesi
+39,Harran University,Harran Üniversitesi
+40,TOBB Economics and Technology University,TOBB Ekonomi ve Teknoloji Üniversitesi
+41,Yüzüncü Yil University,Yüzüncü Yıl Üniversitesi
+42,Çanakkale Onsekyz Mart University,Çanakkale Onsekiz Mart Üniversitesi
+43,Necmettin Erbakan University,Necmettin Erbakan Üniversitesi
+44,Yeditepe University,Yeditepe Üniversitesi
+45,İnönü University,İnönü Üniversitesi
+46,Başkent University,Başkent Üniversitesi
+47,Abant Izzet Baysal University,Abant İzzet Baysal Üniversitesi
+48,Istanbul Medipol University,İstanbul Medipol Üniversitesi
+49,Healh Sciences University,Sağlık Bilimleri Üniversitesi
+50,Trakya University,Trakya Üniversitesi
+51,Muğla Sıtkı Koçman University,Muğla Sıtkı Koçman Üniversitesi
+52,Yildiz Technical University,Yıldız Teknik Üniversitesi
+53,Adnan Menderes University,Adnan Menderes Üniversitesi
+54,İstanbul Gelişim University,İstanbul Gelişim Üniversitesi
+55,İstanbul Medeniyet University,İstanbul Medeniyet Üniversitesi
+56,Gaziosmanpaşa University,Gaziosmanpaşa Üniversitesi
+57,Atilim University,Atılım Üniversitesi
+58,Afyon Kocatepe University,Afyon Kocatepe Üniversitesi
+59,Bartin University,Bartın Üniversitesi
+60,Çukurova University,Çukurova Üniversitesi
+61,Yaşar University,Yaşar Üniversitesi
+62,Kafkas University,Kafkas Üniversitesi
+63,Bingöl University,Bingöl Üniversitesi
+64,Karamanoğlu Mehmetbey University,Karamanoğlu Mehmetbey Üniversitesi
+65,Giresun University,Giresun Üniversitesi
+66,Balikesir University,Balıkesir Üniversitesi
+67,Recep Tayyip Erdoğan University (Rize University),Recep Tayyip Erdoğan Üniversitesi
+68,Zonguldak Bülent Ecevit Üniversitesi,Zonguldak Bülent Ecevit Üniversitesi
+69,Bozok University,Bozok Üniversitesi
+70,Adiyaman University,Adıyaman Üniversitesi
+71,Selçuk University,Selçuk Üniversitesi
+72,Namik Kemal University,Namık Kemal Üniversitesi
+73,Kahramanmaraş Sütçü İmam University,Kahramanmaraş Sütçü İmam Üniversitesi
+74,Kastamonu University,Kastamonu Üniversitesi
+75,Yıldırım Beyazıt University,Yıldırım Beyazıt Üniversitesi
+76,Nigde Omer Halisdemir University,Niğde Ömer Halisdemir Üniversitesi
+77,Dicle University,Dicle Üniversitesi
+78,Kadir Has University,Kadir Has Üniversitesi
+79,Uskudar University,Üsküdar Üniversitesi
+80,Mehmet Akif Ersoy University,Mehmet Akif Ersoy Üniversitesi
+81,Izmir University of Economics,İzmir Ekonomi Üniversitesi
+82,Beykent University,Beykent Üniversitesi
+83,Acibadem University,Acıbadem Üniversitesi
+84,Sinop University,Sinop Üniversitesi
+85,Izmir Katip Celebi University,İzmir Katip Çelebi Üniversitesi
+86,Dumlupinar University,Dumlupınar Üniversitesi
+87,Aksaray University,Aksaray Üniversitesi
+88,Mustafa Kemal University,Mustafa Kemal Üniversitesi
+89,Hasan Kalyoncu University,Hasan Kalyoncu Üniversitesi
+90,Biruni University,Biruni Üniversitesi
+91,Hitit University,Hitit Üniversitesi
+92,Siirt University,Siirt Üniversitesi
+93,Ahi Evran University,Ahi Evran Üniversitesi
+94,Mimar Sinan Fine Arts University,Mimar Sinan Güzel Sanatlar Üniversitesi
+95,Uşak University,Uşak Üniversitesi
+96,Ordu University,Ordu Üniversitesi
+97,Bursa Teknik University,Bursa Teknik Üniversitesi
+98,Nevşehir University,Nevşehir Üniversitesi
+99,Istanbul Commerce University,İstanbul Ticaret Üniversitesi
+100,Bezmialem Vakif University,Bezmialem Vakıf Üniversitesi
+101,Çankiri Karatekin University,Çankırı Karatekin Üniversitesi
+102,Nişantaşı University,Nişantaşı Üniversitesi
+103,Iğdır University,Iğdır Üniversitesi
+104,Galatasaray University,Galatasaray Üniversitesi
+105,Abdullah Gül University Kayseri,Abdullah Gül Üniversitesi Kayseri
+106,Istanbul Kültür University,İstanbul Kültür Üniversitesi
+107,Düzce University,Düzce Üniversitesi
+108,Okan University,Okan Üniversitesi
+109,Piri Reis University,Piri Reis Üniversitesi
+110,Agri Mountain University / Ağrı İbrahim Çeçen University,Ağrı Dağ Üniversitesi / Ağrı İbrahim Çeçen Üniversitesi
+111,Gümüşhane University,Gümüşhane Üniversitesi
+112,Istanbul Sabahattin Zaim University,İstanbul Sabahattin Zaim Üniversitesi
+113,Kirklareli University,Kırklareli Üniversitesi
+114,Batman University,Batman Üniversitesi
+115,Osmaniye Korkut Ata University,Osmaniye Korkut Ata Üniversitesi
+116,Işık University,Işık Üniversitesi
+117,Şırnak University,Şırnak Üniversitesi
+118,Muş Alparslan University,Muş Alparslan Üniversitesi
+119,Yalova University,Yalova Üniversitesi
+120,TED University,TED Üniversitesi
+121,Doğuş University,Doğuş Üniversitesi
+122,Erzurum Teknik Üniversitesi,Erzurum Teknik Üniversitesi
+123,Erzincan Binali Yıldırım Üniversitesi,Erzincan Binali Yıldırım Üniversitesi
+124,KTO Karatay University,KTO Karatay Üniversitesi
+125,Artvin Çoruh University,Artvin Çoruh Üniversitesi
+126,Çağ University,Çağ Üniversitesi
+127,Bayburt University,Bayburt Üniversitesi
+128,Manisa Celal Bayar University,Manisa Celal Bayar Üniversitesi
+129,Adana Alparslan Türkeş Science and Technology University,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi
+130,Bilecik Şeyh Edebali University,Bilecik Şeyh Edebali Üniversitesi
+131,Iskenderun Technical University,İskenderun Teknik Üniversitesi
+132,Bitlis Eren University,Bitlis Eren Üniversitesi
+133,İstanbul MEF University,İstanbul MEF Üniversitesi
+134,Afyonkarahisar Sağlik Bilimleri University,Afyonkarahisar Sağlık Bilimleri Üniversitesi
+135,Amasya University,Amasya Üniversitesi
+136,Maltepe University,Maltepe Üniversitesi
+137,Ufuk University,Ufuk Üniversitesi
+138,Kütahya Sağlik Bilimleri University,Kütahya Sağlık Bilimleri Üniversitesi
+139,Istanbul Arel University,İstanbul Arel Üniversitesi
+140,Ankara Hacı Bayram Veli University,Ankara Hacı Bayram Veli Üniversitesi
+141,Demiroğlu Bilim University,Demiroğlu Bilim Üniversitesi
+142,İzmir Democracy University,İzmir Demokrasi Üniversitesi
+143,Istanbul Gedik University,İstanbul Gedik Üniversitesi
+144,Haliç University,Haliç Üniversitesi
+145,Istinye University,İstinye Üniversitesi
+146,Istanbul Atlas University,İstanbul Atlas Üniversitesi
+147,Altınbaş University,Altınbaş Üniversitesi
+148,Eskişehir Technical University,Eskisehir Teknik Üniversitesi
+149,Fatih Sultan Mehmet University,Fatih Sultan Mehmet Üniversitesi
+150,Mardin Artuklu University,Mardin Artuklu Üniversitesi
+151,Bandırma Onyedi Eylül University,Bandırma Onyedi Eylül Üniversitesi
+152,İbn Haldun University,İbn Haldun Üniversitesi
+153,Sakarya Uygulamali Bilimler University,Sakarya Uygulamalı Bilimler Üniversitesi
+154,Turkey Police Academy,Türkiye Polis Akademisi / Polis Akademisi Başkanlığı
+155,Ankara Sosyal Bilimler University,Ankara Sosyal Bilimler Üniversitesi
+156,Turkish-German University,Türk-Alman Üniversitesi
+157,National Defense University,Milli Savunma Üniversitesi
+158,Antalya Science University,Antalya Bilim Üniversitesi
+159,Konya Technical University,Konya Teknik Üniversitesi
+160,Kilis 7 Aralık University / December 7 University of Kilis,Kilis 7 Aralık Üniversitesi
+161,Boğaziçi University,Boğaziçi Üniversitesi
+162,Cappadocia University,Kapadokya Üniversitesi
+163,Ardahan University,Ardahan Üniversitesi
+164,Samsun University,Samsun Üniversitesi
+165,Yeni Yüzyıl University,Yeni Yüzyıl Üniversitesi
+166,Malatya Turgut Özal University,Malatya Turgut Özal Üniversitesi
+167,Beykoz University,Beykoz Üniversitesi
+168,Lokman Hekim University,Lokman Hekim Üniversitesi
+169,Trabzon University,Trabzon Üniversitesi
+170,Toros University,Toros Üniversitesi
+171,Ankara Medipol University,Ankara Medipol Üniversitesi
+172,Istanbul 29 Mayıs University,İstanbul 29 Mayıs Üniversitesi
+173,Tarsus University,Tarsus Üniversitesi
+174,Ostim Technical University,Ostim Teknik Üniversitesi
+175,Istanbul Esenyurt University,İstanbul Esenyurt Üniversitesi
+176,Fenerbahçe University,Fenerbahçe Üniversitesi
+177,Hakkari University,Hakkari Üniversitesi
+178,Konya Food and Agricultural University,Konya Gıda ve Tarım Üniversitesi
+179,Nuh Naci Yazgan University,Nuh Naci Yazgan Üniversitesi
+180,İstanbul Topkapı University,İstanbul Topkapı Üniversitesi
+181,Kayseri University,Kayseri Üniversitesi
+182,İstanbul Kent University,İstanbul Kent Üniversitesi
+183,Sanko University,Sanko Üniversitesi
+184,Istanbul Rumeli University,İstanbul Rumeli Üniversitesi
+185,Ankara Fine Arts University,Ankara Güzel Sanatlar Üniversitesi
+186,Avrasya University,Avrasya Üniversitesi
+187,Gendarmerie and Coast Guard Academy,Jandarma ve Sahil Güvenlik Akademisi
+188,Turkey Air Technical School,Türkiye Hava Teknik Okulu
+189,Izmir Tinaztepe University,İzmir Tınaztepe Üniversitesi
+190,Alanya Alaaddin Keykubat University,Alanya Alaaddin Keykubat Üniversitesi
+191,Sivas Bilim Ve Teknoloji University,Sivas Bilim Ve Teknoloji Üniversitesi
+192,Isparta Uygulamali Bilimler University,Isparta Uygulamalı Bilimler Üniversitesi
+193,İzmir Kavram Meslek Yüksekokulu,İzmir Kavram Meslek Yüksekokulu
+194,University of Turkish Aeronautical Association,Türk Hava Kurumu Üniversitesi
+195,Gaziantep Islam Bilim Ve Teknoloji University,Gaziantep İslam Bilim Ve Teknoloji Üniversitesi
+196,Kahramanmaraş Istiklal University,Kahramanmaraş İstiklal Üniversitesi
+197,Munzur University Tunceli,Munzur Üniversitesi Tunceli
+198,İstanbul Şişli Meslek Yüksekokulu,İstanbul Şişli Meslek Yüksekokulu
+199,Ataşehir Adıgüzel Meslek Yüksekokulu,Ataşehir Adıgüzel Meslek Yüksekokulu
+200,Arkin Universityn of Creative Arts,Arkın Yaratıcı Sanatlar ve Tasarım Üniversitesi
+201,Bakırçay University,Bakırçay Üniversitesi
+202,Kocaeli Health and Technology University,Kocaeli Sağlık ve Teknoloji Üniversitesi
+203,Yüksek Ihtisas University,Yüksek İhtisas Üniversitesi
+204,Alanya University,Alanya Üniversitesi
+205,Rauf Denktas University,Rauf Denktaş Üniversitesi
+206,İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksek Okulu,İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksek Okulu
+207,Antalya Belek University,Antalya Belek Üniversitesi
+208,Atatürk Teachers Academy,Atatürk Öğretmen Akademisi
+209,Turkish Japanese Science and Technology University,Türk Japon Bilim ve Teknoloji Üniversitesi
