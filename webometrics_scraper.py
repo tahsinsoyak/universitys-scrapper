@@ -1,62 +1,63 @@
 import requests
 from bs4 import BeautifulSoup
-from googletrans import Translator
+import random
+import time
 
-# Google Translate API için bir çevirmen oluştur
-translator = Translator()
+# Load user agents from a file
+with open('user-agents.txt', 'r') as f:
+    user_agents = f.read().splitlines()
 
 def get_university_data(url):
-    response = requests.get(url)
+    headers = {
+        'User-Agent': random.choice(user_agents)
+    }
+    max_retries = 5
+    for attempt in range(max_retries):
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            university_data = []
 
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
+            rows = soup.select('table.sticky-enabled tbody tr')
+            for row in rows:
+                # Check if the row contains the Turkish flag
+                flag_cell = row.select_one('td:nth-of-type(4) center img')
+                if flag_cell and 'tr.png' in flag_cell['src']:
+                    continue
 
-        # HTML yapısını gerçek web sitesine göre ayarlayın
-        # Aşağıdaki sadece varsayılan bir örnek
-        university_data = []
+                rank = row.select_one('td:nth-of-type(1) center').text.strip()
+                university_name = row.select_one('td:nth-of-type(2) a').text.strip()
 
-        rows = soup.select('table.sticky-enabled tbody tr')
-        for row in rows:
-            rank = row.select_one('td:nth-of-type(1) center').text.strip()
-            university_name = row.select_one('td:nth-of-type(3) a').text.strip()
+                university_data.append({
+                    'rank': rank,
+                    'name_en': university_name
+                })
 
-            # Türkçe çevirisini al
-            turkish_translation = translator.translate(university_name, src='en', dest='tr').text
+            return university_data
+        else:
+            print(f"Failed to retrieve the page. Status code: {response.status_code}. Attempt {attempt + 1}/{max_retries}")
+            time.sleep(2 ** attempt)  # Exponential backoff
 
-            # Verileri birleştir
-            university_data.append({
-                'rank': rank,
-                'name_en': university_name,
-                'name_tr': turkish_translation
-            })
-
-        return university_data
-
-    else:
-        print(f"Failed to retrieve the page. Status code: {response.status_code}")
-        return []
+    print(f"Giving up after {max_retries} attempts. URL: {url}")
+    return []
 
 def save_to_txt(data):
-    with open('üniversiteler.txt', 'w', encoding='utf-8') as file:
-        file.write("rank,name_en,name_tr\n")
+    with open('universiteler.txt', 'w', encoding='utf-8') as file:
+        file.write("rank,name_en\n")
         for entry in data:
-            file.write(f"{entry['rank']},{entry['name_en']},{entry['name_tr']}\n")
+            file.write(f"{entry['rank']},{entry['name_en']}\n")
 
 if __name__ == "__main__":
-    # Replace these URLs with your actual URLs
-    urls = [
-        "https://www.webometrics.info/en/Asia/turkey?sort=asc&order=World%20Rank",
-        "https://www.webometrics.info/en/Asia/turkey?page=1&sort=asc&order=World%20Rank",
-        "https://www.webometrics.info/en/Asia/turkey?page=2&sort=asc&order=World%20Rank",
-    ]
-
+    base_url = "https://webometrics.info/en/world?page="
     all_university_data = []
 
-    for url in urls:
+    for page in range(121):
+        url = f"{base_url}{page}"
         print(f"University data for {url}:")
         university_data = get_university_data(url)
         all_university_data.extend(university_data)
         print("\n")
+        time.sleep(random.uniform(1, 3))
 
     save_to_txt(all_university_data)
-    print("Data saved to output.txt")
+    print("Data saved to universiteler.txt")
